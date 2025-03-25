@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2025-03-13 17:39:44",
+    "symptoms": [
+      "Loss Of Appetite",
+      "Headache",
+      "Vomiting",
+      "Depression"
+    ],
+    "predicted_disease": "Paralysis (brain hemorrhage)",
+    "analysis": {
+      "medicines": "Acetaminophen for headache relief, Metoclopramide or Ondansetron for vomiting, and antidepressants prescribed by a healthcare professional for depression",
+      "precautions": "Avoid heavy lifting or any strenuous activity, limit exposure to loud noises, and monitor blood pressure regularly",
+      "advice": "Seek immediate medical attention if symptoms worsen, especially signs of increased intracranial pressure such as worsening headache or change in level of consciousness"
+    },
+    "chat": [
+      [
+        "You",
+        "will i survive ?"
+      ],
+      [
+        "AI",
+        "1. I am an AI and cannot diagnose or predict survival rates.\n2. If you are experiencing the symptoms mentioned, it is crucial to seek immediate medical attention from a healthcare professional for proper diagnosis and treatment.\n3. Following their advice and taking prescribed medications as directed will improve your chances of recovery.\n4. Make sure to stay hydrated and rest adequately while awaiting medical help."
+      ],
+      [
+        "You",
+        "i do gym and heavy weight is it an problem "
+      ],
+      [
+        "AI",
+        "1. Continue your regular gym routine if you feel up to it, but adjust the intensity according to how you feel each day.\n2. If vomiting occurs after exercise, avoid strenuous activity immediately before or after workouts.\n3. Stay hydrated by drinking plenty of water throughout the day, especially before and after exercise.\n4. Eat small, nutritious meals throughout the day to help manage your appetite.\n5. If you experience worsening symptoms or feel unusually tired during exercise, consult a healthcare professional for advice."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-03-13 18:03:41",
+    "symptoms": [
+      "Chest Pain",
+      "Unsteadiness",
+      "Anxiety"
+    ],
+    "predicted_disease": "(vertigo) Paroymsal  Positional Vertigo",
+    "analysis": {
+      "medicines": [
+        "Betahistine, Meclizine"
+      ],
+      "precautions": [
+        "Avoid driving or operating machinery if symptoms worsen, Limit salt and caffeine intake, Maintain a regular sleep schedule"
+      ],
+      "advice": [
+        "Perform the Epley maneuver as directed by your doctor, Use a support system for balance, Consult an audiologist for hearing tests"
+      ]
+    },
+    "chat": []
+  },
+  {
+    "timestamp": "2025-03-14 02:26:41",
+    "symptoms": [
+      "Cough",
+      "Continuous Sneezing",
+      "Throat Irritation",
+      "Headache",
+      "Redness Of Eyes"
+    ],
+    "predicted_disease": "Common Cold",
+    "analysis": {
+      "medicines": "Ibuprofen, Acetaminophen, Decongestants, Expectorants",
+      "precautions": "Avoid close contact with sick individuals, Frequent hand washing, Avoid touching eyes, nose, and mouth",
+      "advice": "Stay hydrated, Rest as much as possible, Use a humidifier"
+    },
+    "chat": [
+      [
+        "You",
+        "Can you Advice some exercises to get fast relifes ."
+      ],
+      [
+        "AI",
+        "1. Steam Inhalation: Boil water, add a few drops of eucalyptus oil, lean over the steam and cover your head with a towel. Breathe deeply for 5-10 minutes to help relieve congestion.\n\n2. Hydration: Drink plenty of fluids such as water, herbal tea (chamomile or peppermint), or clear broths to keep hydrated and soothe a sore throat.\n\n3. Saline Nasal Spray: Use a saline nasal spray to help unblock your nose and reduce irritation.\n\n4. Warm Compress: Apply a warm compress to the forehead and eyes to relieve headache and redness.\n\n5. Humidifier: Use a humidifier in your room to add moisture to the air, which can help soothe a dry throat and cough.\n\n6. Throat lozenges or cough drops: These can provide temporary relief for sore throats and coughs."
+      ]
+    ]
+  }
+]
