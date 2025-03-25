@@ -1,4 +1,4 @@
-# Symptom Analyzer using Machine Learning and Ollama AI
+# Disease Predictor And Symptoms Analyzer 
 
 This project utilizes Ollama with the Mistral model, a local Large Language Model (LLM), to analyze user-provided symptoms and generate potential medical advice, including medicines, precautions, and general guidance. It also incorporates a machine learning model for disease prediction. **Please note that this is not a substitute for professional medical advice. Always consult with a qualified healthcare provider for diagnosis and treatment.**
 
