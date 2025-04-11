@@ -8,6 +8,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 import uuid
+import scipy
 
 OLLAMA_API_URL = "http://localhost:11434/api/generate"
 HISTORY_FILE = "analysis_history.json"
